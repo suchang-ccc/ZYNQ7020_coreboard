@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/Programs/FPGA/Vitis/ZYNQ_DRAM_test/zynq_dram_test_1/build",
+  "command": "C:\\Xilinx\\2025.1\\Vitis\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -isystem D:/Programs/FPGA/Vitis/ZYNQ_DRAM_test/platform111/export/platform111/sw/standalone_ps7_cortexa9_0/include -isystem C:/Xilinx/2025.1/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.3.0/include -isystem C:/Xilinx/2025.1/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.3.0/include-fixed -isystem C:/Xilinx/2025.1/Vitis/gnu/aarch32/nt/gcc-arm-none-eabi/aarch32-xilinx-eabi/usr/include  -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=D:/Programs/FPGA/Vitis/ZYNQ_DRAM_test/platform111/export/platform111/sw/standalone_ps7_cortexa9_0/Xilinx.spec -ID:/Programs/FPGA/Vitis/ZYNQ_DRAM_test/platform111/export/platform111/sw/standalone_ps7_cortexa9_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles\\zynq_dram_test_1.elf.dir\\test01.c.obj -c D:\\Programs\\FPGA\\Vitis\\ZYNQ_DRAM_test\\zynq_dram_test_1\\src\\test01.c",
+  "file": "D:\\Programs\\FPGA\\Vitis\\ZYNQ_DRAM_test\\zynq_dram_test_1\\src\\test01.c"
+},
+{
+  "directory": "D:/Programs/FPGA/Vitis/ZYNQ_DRAM_test/zynq_dram_test_1/build",
+  "command": "C:\\Xilinx\\2025.1\\Vitis\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe  -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=D:/Programs/FPGA/Vitis/ZYNQ_DRAM_test/platform111/export/platform111/sw/standalone_ps7_cortexa9_0/Xilinx.spec -ID:/Programs/FPGA/Vitis/ZYNQ_DRAM_test/platform111/export/platform111/sw/standalone_ps7_cortexa9_0/include -o CMakeFiles\\zynq_dram_test_1.elf.dir\\translation_table.s.obj -c D:\\Programs\\FPGA\\Vitis\\ZYNQ_DRAM_test\\zynq_dram_test_1\\src\\translation_table.s",
+  "file": "D:\\Programs\\FPGA\\Vitis\\ZYNQ_DRAM_test\\zynq_dram_test_1\\src\\translation_table.s"
+}
+]
