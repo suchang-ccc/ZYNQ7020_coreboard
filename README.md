@@ -1,0 +1,2 @@
+# ZYNQ7020_coreboard
+基于ZYNQ7020的fpga核心板
